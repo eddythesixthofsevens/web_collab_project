@@ -5,6 +5,7 @@ body {
     text-align: center;
     font-size: 15px;
     background-image:url("");
+    cursor: url("Kaiser.png") 16 16, auto
 }
 
 h1 {
@@ -28,7 +29,7 @@ ul, ol {
 table {
     color: rgb(77, 101, 255)
     background-color: #000566;
-    width: 70%;
+    width: 80%;
     box-shadow: 5px -5px 10px rgb(0,0,0 );
 }
 
